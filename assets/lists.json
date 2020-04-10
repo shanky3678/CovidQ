@@ -1,0 +1,71 @@
+[
+{
+  "1" : "1. How are you?",
+  "2" : "2. Please select your gender ",
+  "3" : "3. Please let us know your current body temperature in degree Fahrenheit",
+  "4" : "4. Please select your travel and exposure details",
+  "5" : "5. How have your symptoms progressed over the last 48 hours?",
+  "6" : "6. Are you experiencing any of the symptoms below ( mark all those applicable )",
+  "7" : "7. Do you have a history of any of these conditions (mark all if applicable?)",
+  "8" : "8. Additionally ,please verify if you are experiencing any of the symptoms below(mark all those applicable)"
+},
+  {
+    "1": {
+      "0": "Fine",
+      "1": "Okay",
+      "2": "Not well"
+    },
+    "2": {
+      "0": "Male",
+      "1": "Female",
+      "2": "others"
+    },
+    "3": {
+      "0": "Normal(96F – 98.6 F)",
+      "1": "Fever(98.6F-102F)",
+      "2": "High fever(>102F)"
+    },
+    "4": {
+      "0": "No travel history",
+      "1": "No contact with anyone with symptoms",
+      "2": "History of travel or meeting in affected geographical area in last 14 days",
+      "3": "Close contact with confirmed COVID in last 14 days"
+    },
+    "5": {
+      "0": "Improved",
+      "1": "No change",
+      "2": "Worsened",
+      "3": "Worsened considerably"
+    },
+
+    "6": {
+      "0": "Dry cough",
+      "1" : "Sore throat",
+      "2" : "Loss or diminished sense of smell",
+      "3" : "Weakness",
+      "4" : "Change in Appetite",
+      "5" : "None of these"
+    },
+    "7" : {
+      "0" : "Diabetes",
+      "1" : "High blood pressure",
+      "2" : "Heart disease",
+      "3" : "Kidney disease",
+      "4" : "Lung disease",
+      "5" : "Stroke",
+      "6" : "Reduced immunity",
+      "7" : "None of these"
+    },
+    "8" : {
+      "0" : "Moderate to severe cough",
+      "1" : "Feeling breathless",
+      "2" : "Difficulty in breathing",
+      "3" : "Drowsiness",
+      "4" : "Persistent pain and pressure in chest",
+      "5" : "Severe weakness",
+      "6" : "None of these"
+    }
+  }
+
+
+]

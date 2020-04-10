@@ -1,0 +1,43 @@
+name: protectfuture
+description: Application to counter attack Covid-19
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.5.7+4
+  path_provider: ^1.6.5
+  image_picker: ^0.6.4
+  firebase_core: ^0.4.4+3
+  firebase_auth: ^0.15.5+3
+  cloud_firestore: ^0.13.4+2
+  modal_progress_hud: ^0.1.3
+  firebase_storage: ^3.1.5
+  cupertino_icons: ^0.1.2
+  geolocator: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - images/
+    - lists.json
+
+
+  fonts:
+    - family: SourceCode
+      fonts:
+        - asset: fonts/SourceCodePro-Regular.ttf
+

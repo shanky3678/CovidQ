@@ -24,10 +24,10 @@ Overall this app makes sure that the quarantined person is at home all the time.
 
 ## Authors
 
-* **Shashank LK **         - [shanky3678](https://github.com/shanky3678)
-* **P Sumantha Aithal **   - [sumanthaithal](https://github.com/sumanthaithal)
-* **Akhilesh **            - [akhileshrajan1921](https://github.com/akhileshrajan1921)
-* **Amruthkrishna P **     - [amruthkrishnap](https://github.com/amruthkrishnap)
+* Shashank LK         - [shanky3678](https://github.com/shanky3678)
+* P Sumantha Aithal   - [sumanthaithal](https://github.com/sumanthaithal)
+* Akhilesh            - [akhileshrajan1921](https://github.com/akhileshrajan1921)
+* Amruthkrishna P     - [amruthkrishnap](https://github.com/amruthkrishnap)
 
 
 
